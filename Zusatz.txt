@@ -1,0 +1,10 @@
+------------------------------------------ Auswertung ------------------------------------------
+- Lagerauslastung auch in Prozent
+- Heute ankommende Bestellungen-Tabelle der Einkauf-Tabelle angepasst
+
+
+------------------------------------------ Einkauf ------------------------------------------
+- Bestellung nur bei aktiven Lieferanten möglich
+
+ausstehend:
+- Lieferanten- und Datumauswahl nach dem ersten hinzugefügten Produkt sperren

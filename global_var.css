@@ -1,0 +1,11 @@
+:root {
+    --main_width: 1280px;
+    --gelb: #F1E921;
+    --gruen: #90D141;
+    --table_fontsize: 1.2em;
+    --button-backgroundcolor: rgba(172, 172, 172, 0.781);
+    --button-width: 170px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+
